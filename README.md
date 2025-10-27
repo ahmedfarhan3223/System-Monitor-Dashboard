@@ -24,7 +24,7 @@ https://github.com/ahmedfarhan3223/System-Monitor-Dashboard
 
 # Go to the project directory
 
-cd system-monitor-dashboard
+cd System-Monitor-Dashboard
 
 # (Optional) Install dependencies
 
