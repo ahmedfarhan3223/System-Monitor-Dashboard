@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🖥️ System Monitor Dashboard
 
-# Run and deploy your AI Studio app
+A simulated web-based **System Monitor Dashboard** that visualizes real-time system metrics such as CPU usage, memory load, disk I/O, and network activity — all through an interactive, responsive interface.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+- 📊 Real-time metric simulation (CPU, RAM, Disk, Network)
 
-## Run Locally
+- 🌐 Interactive web dashboard layout
 
-**Prerequisites:**  Node.js
+- ⚙️ Modular and customizable components
 
+- 💡 Lightweight frontend for easy integration
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🧠 How It Works
+
+This project simulates live system data using random or generated metrics, mimicking a real monitoring environment for UI and UX testing.
+
+## 🛠️ Setup
+
+# Clone the repository
+
+https://github.com/ahmedfarhan3223/System-Monitor-Dashboard
+
+# Go to the project directory
+
+cd system-monitor-dashboard
+
+# (Optional) Install dependencies
+
+npm install
+
+# Run locally
+
+npm run dev
+
